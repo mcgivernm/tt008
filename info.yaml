@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # BWSI Roster
-  author:       ""      # Mike McGivern
-  discord:      ""      # .mcgivern
-  description:  ""      # This is just a fun project to list all the names of students from the summer of 2024
+  title:        "BWSI Roster"  
+  author:       "Mike McGivern"     
+  discord:      ".mcgivern"     
+  description:  "This is just a fun project to list all the names of students from the summer of 2024"      # 
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # 0
 
